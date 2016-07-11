@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1467682526 source:c:\users\allan\documents\games indev\tiletester\console_adventure\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	"conlib.h"
+
+1467682785 source:c:\users\allan\documents\games indev\tiletester\console_adventure\conlib.c
+	"conlib.h"
+
+1467682772 c:\users\allan\documents\games indev\tiletester\console_adventure\conlib.h
+	<stdlib.h>
+	<stdio.h>
+
+1467919253 source:c:\users\allan\documents\games indev\console_adventure\main.c
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+	"conlib.h"
+
+1467837659 c:\users\allan\documents\games indev\console_adventure\conlib.h
+	<stdio.h>
+
+1467760208 c:\users\allan\documents\games indev\console_adventure\conlib_colors.h
+
+1467761768 source:c:\users\allan\documents\games indev\console_adventure\conlib.c
+	"conlib.h"
+
+1467689052 source:c:\users\allan\documents\games indev\console_adventure\src\screen_clear.cpp
+	"screen_clear.h"
+
+1467689051 c:\users\allan\documents\games indev\console_adventure\include\screen_clear.h
+	<windows.h>
+
+1467689353 c:\users\allan\documents\games indev\console_adventure\screen_clear.h
+	<windows.h>
+
+1467689052 source:c:\users\allan\documents\games indev\console_adventure\screen_clear.c
+	"screen_clear.h"
+

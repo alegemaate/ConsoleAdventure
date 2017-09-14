@@ -15,6 +15,8 @@
 
 #define NUMBER_OF_TILES 20
 
+#define GIT_TEST 1
+
 // Declare booleans (bcs c doesnt know what they are)
 typedef enum {
   FALSE, TRUE
